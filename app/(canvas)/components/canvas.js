@@ -684,7 +684,7 @@ const Canvas = ({
             style={{
               position: "absolute",
               top: selectedElement.y1 + yOffset - 108,
-              left: selectedElement.x1 + xOffset - 340,
+              left: selectedElement.x1 + xOffset - 200,
               font: "24px sans-serif",
               margin: 0,
               padding: 0,
